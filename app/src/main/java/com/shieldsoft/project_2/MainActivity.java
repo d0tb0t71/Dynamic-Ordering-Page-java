@@ -171,7 +171,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
 
-                if(whipped_cream.isChecked()){
+                if(chocolate.isChecked()){
 
                     ch=true;
                     ch_total= quan;
